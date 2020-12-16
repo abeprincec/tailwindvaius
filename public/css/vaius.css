@@ -1,0 +1,10 @@
+:root {
+  --main: #0095ff;
+  --secondary: #00a010;
+  --text: #ffffff;
+}
+
+.vaius-color {
+  background-color: var(--main);
+  color: var(--text);
+}
